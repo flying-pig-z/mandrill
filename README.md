@@ -1,5 +1,7 @@
 # mandrill2025
-2025年编译原理作业
+2025年编译原理作业，实现mandrill语言的编译器，mandrill语言的定义具体见仓库的文件 -- 编译原理实践项目介绍(2025v5).pdf
+
+测试仓库：https://github.com/croissantfish/mandrill-compiler-testcases
 
 感谢强大的AI
 
@@ -16,4 +18,4 @@
 | **三地址码**                 | 中间代码表示和生成     | `compiler.py`                   |
 | **虚拟机执行**               | 栈式计算和指令解释     | `vm.py`                         |
 
-测试仓库：https://github.com/croissantfish/mandrill-compiler-testcases
+
