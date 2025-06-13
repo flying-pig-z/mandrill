@@ -3,8 +3,8 @@
 
 测试仓库：https://github.com/croissantfish/mandrill-compiler-testcases
 
-**感谢强大的AI
-**
+**感谢强大的AI**
+
 代码中所涉及的理论知识点
 
 | 课本理论内容                 | 实验代码应用           | 对应模块                        |
